@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   👋 안녕하세요, 노영선입니다.
   <br>
   <br>
-  🎓 Department of Applied Information Technology and Securtity, Ansan Univ. 
+  🎓 Department of Applied Information Technology and Securtity, Ansan Univ.
+  <br>
   🎓 Department of computer & Telecommunication Enginnering, Yonsei Univ.
   <br>
   <br>

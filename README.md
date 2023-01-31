@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B7089,100:B2EBF2&height=300&section=header&text=Welcome&fontSize=90&fontColor=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B7089,100:B2EBF2&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff)
 
 <div align=center>
   👋 안녕하세요, 노영선입니다.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
-<div align=center> 👋 안녕하세요, 노영선입니다. </div>
+<br><div align=center> 👋 안녕하세요, 노영선입니다. </div></br>
 
 <div align=center>🎓 Department of Applied Information Technology and Securtity, Ansan Univ.</div>  
 

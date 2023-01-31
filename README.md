@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <br>
   🎓 Department of Applied Information Technology and Securtity, Ansan Univ.
   <br>
-  🎓 Department of computer & Telecommunication Enginnering, Yonsei Univ.
+  🎓 Department of Computer & Telecommunication Enginnering, Yonsei Univ.
   <br>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">

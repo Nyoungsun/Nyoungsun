@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpegab&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/DE1-Soc-000080?style=for-the-badge&logo=DE1-SoC&logoColor=white">
+  <img src="https://img.shields.io/badge/DE1-Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">

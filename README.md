@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90)</div>
 
 <br><div align=center>👋 안녕하세요, 노영선입니다.</div></br>
 
 <div align=center>🎓 Department of Applied Information Technology and Securtity, Ansan Univ.</div>  
-<br><div align=center>🎓 Department of computer & Telecommunication Enginnering, Yonsei Univ.</div></br>
+<div align=center>🎓 Department of computer & Telecommunication Enginnering, Yonsei Univ.</div>
 
 
-<div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><div>
+<br><div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><div></br>

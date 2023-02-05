@@ -56,10 +56,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=DE1SoC&logoColor=white">
+  <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Node.js-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
- 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   </div>

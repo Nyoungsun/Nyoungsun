@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5cdaff,100:5ca7ff&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5cdaff,100:5ca7ff&height=300&section=header&text=안녕하세요&fontSize=90&fontColor=ffffff)
 
 <div align=center>
-  👋 안녕하세요, 노영선입니다.
+  👋 노영선입니다.
   <br>
   <br>
   🎓 Department of Applied Information Technology and Securtity, Ansan Univ.

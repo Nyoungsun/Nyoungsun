@@ -50,9 +50,16 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/UNIX-007fff?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <img src="https://img.shields.io/badge/solaris-8b00ff?style=for-the-badge&logo=DE1SoC&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white">
+  <br
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=DE1SoC&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+ 
   </div>

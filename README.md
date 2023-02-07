@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   <br
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
   <br>
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">
   <br>

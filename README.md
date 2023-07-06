@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5cdaff,100:5ca7ff&height=300&section=header&text=안녕하세요&fontSize=90&fontColor=ffffff)
 
+
 <div align=center>
   👋 반갑습니다, 노영선입니다.
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nyoungsun&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoungsun&layout=compact&theme=tokyonight)
+
+</div>
+
+<div align=center>
   <br>
   <br>
   <br>

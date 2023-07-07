@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   👋 반갑습니다, 노영선입니다.
-  
+  <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nyoungsun&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoungsun&layout=compact&theme=tokyonight)
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  <br>
   <br>
   <br>
   <br>

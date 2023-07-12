@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <div align=center>
   <br>
   <br>
-  <br>
   💻 my skill 💻
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 

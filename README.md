@@ -46,7 +46,7 @@
   <br>
   <br>
   <br>
-  <h2/>💡 used at least once </h2>
+  <h2/>💡 Used at least once </h2>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">

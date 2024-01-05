@@ -6,6 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoungsun&layout=compact&theme=tokyonight)
 </div>
 
+<div>
   <br>
   <br>
   <br>
@@ -47,3 +48,4 @@
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">
+</div>

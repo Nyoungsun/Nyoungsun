@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyoungsun&layout=compact&theme=tokyonight)
 </div>
 
-<div>
   <br>
   <br>
   <br>
@@ -14,6 +13,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <br>
   <h2> 💻 Front-End </h2>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -43,12 +43,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <br>
-  <br>
-  <br>
-  <br>
   <h2/>💡 Used at least once </h2>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </div>

@@ -44,8 +44,17 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <br>
-  <h2/>💡 Used at least once </h2>
+  <h2> 💻 Used at least once </h2>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/DE1Soc-000080?style=for-the-badge&logo=DE1SoC&logoColor=white">
   <img src="https://img.shields.io/badge/ftkimager-cccc99?style=for-the-badge&logo=ftkimager&logoColor=white">
+  <h2> 💡 Project </h2>
+  <a href="https://github.com/Nyoungsun/OhMyGoal">OhMyGoal - 1일 1미션 사이트</a><br>
+  <ul><li>role: 팀장 및 프론트엔드 & 백엔드 개발</li></ul><br>
+  <a href="https://github.com/Nyoungsun/GANADA">가나다 - 네이버 블로그 감성분석 사이트</a><br>
+  <ul><li>role: 기획, 설계, 프론트엔드 & 백엔드 개발, CI/CD, 배포 </li></ul><br>
+  <a href="https://github.com/Nyoungsun/pit-a-pat">pit-a-pat - 온라인 롤링페이퍼 사이트</a><br>
+  <ul><li>role: 팀장 및 프론트엔드 & 백엔드 개발</li></ul><br>
+  <a href="https://github.com/Nyoungsun/Foodduck">Foodduck - 나만의 맛집 기록 App</a><br>
+  <ul><li>role: 팀장 및 프론트엔드 & 백엔드 개발</li></ul><br>
 </div>

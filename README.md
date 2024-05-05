@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5cdaff,100:5ca7ff&height=300&section=header&text=안녕하세요.&fontSize=90&fontColor=ffffff)
 
 <div>
-  <br>
-  <br>
-  <br>
   <h2> 💡 Project </h2>
   <a href="https://github.com/Nyoungsun/OhMyGoal">OhMyGoal - 1일 1미션 사이트</a><br>
   <ul><li>role: 팀장 및 프론트엔드 & 백엔드 개발</li></ul><br>
